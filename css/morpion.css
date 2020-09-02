@@ -1,8 +1,14 @@
 #test{color: gray;}
 article{display:flex;}
 main div{
-    height: 3em;
-    width: 3em;
+    height:20vh;
+    width: 20vh;
     background: lightgray;
     margin: .2em;
+}
+div{
+    font-size: 7em;
+    margin: 0;
+    padding: 0;
+    text-align: center;
 }
