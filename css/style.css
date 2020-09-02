@@ -1,0 +1,42 @@
+*{font-family: "Trebuchet MS";}
+#test {
+  color: gray;
+}
+h1{
+background: indianred;
+color: aliceblue;
+}
+section{margin: 1em;}
+.btn{
+background: steelblue;
+color: aliceblue;
+height: 2em;
+width: 25%;
+}
+main{
+  margin:2em auto;
+  width: 90%;
+  background: rgba(0,0,0,.4);
+  color: aliceblue;
+}
+.monitor{
+    background: black;
+    color: aliceblue;
+    padding: 1em;
+    border-left: grey 4px solid;
+    font-family: 'Courier New', Courier, monospace;
+}
+button{margin: 1em;}
+section{display: flex;}
+section article{width: 100%;}
+#final{
+    font-size: 4em;
+    color: darkgoldenrod;
+    background: aliceblue;
+    text-align: center;
+    padding: 1em;
+    position: absolute;
+    top:50%;
+    left:42%;
+    box-shadow: whitesmoke 0 0 10px 3px;
+}

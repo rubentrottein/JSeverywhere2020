@@ -1,0 +1,8 @@
+#test{color: gray;}
+article{display:flex;}
+main div{
+    height: 3em;
+    width: 3em;
+    background: lightgray;
+    margin: .2em;
+}
